@@ -1,0 +1,11 @@
+{
+  "customerId": "242f9cba-bd9f-482d-9b18-8b8e2c827393",
+  "flavorName": "green",
+  "appName": "Green Customer",
+  "packageName": "org.green.android",
+  "signingKeyCredentials": {
+    "storePassword": "even",
+    "keyAlias": "more",
+    "keyPassword": "secure"
+  }
+}

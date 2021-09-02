@@ -1,0 +1,11 @@
+{
+  "customerId": "1a0bd455-0535-4a4e-a436-0639f873bd9c",
+  "flavorName": "red",
+  "appName": "Red Customer",
+  "packageName": "com.red.android",
+  "signingKeyCredentials": {
+    "storePassword": "very",
+    "keyAlias": "secure",
+    "keyPassword": "creds"
+  }
+}

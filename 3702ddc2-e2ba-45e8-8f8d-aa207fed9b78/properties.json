@@ -1,0 +1,11 @@
+{
+  "customerId": "3702ddc2-e2ba-45e8-8f8d-aa207fed9b78",
+  "flavorName": "blue",
+  "appName": "Blue Customer",
+  "packageName": "com.blue.android",
+  "signingKeyCredentials": {
+    "storePassword": "the",
+    "keyAlias": "utmost",
+    "keyPassword": "security"
+  }
+}
