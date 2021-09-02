@@ -4,8 +4,8 @@
   "appName": "Blue Customer",
   "packageName": "com.blue.android",
   "signingKeyCredentials": {
-    "storePassword": "the",
-    "keyAlias": "utmost",
+    "storePassword": "utmost",
+    "keyAlias": "maximum",
     "keyPassword": "security"
   }
 }

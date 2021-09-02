@@ -4,8 +4,8 @@
   "appName": "Red Customer",
   "packageName": "com.red.android",
   "signingKeyCredentials": {
-    "storePassword": "very",
+    "storePassword": "extremely",
     "keyAlias": "secure",
-    "keyPassword": "creds"
+    "keyPassword": "credentials"
   }
 }
