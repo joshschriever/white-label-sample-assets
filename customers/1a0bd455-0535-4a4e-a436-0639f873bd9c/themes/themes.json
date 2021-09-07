@@ -1,0 +1,12 @@
+{
+  "light": {
+    "backgroundColor": "#F8F8F8",
+    "primaryTextColor": "#481710",
+    "secondaryTextColor": "#111111"
+  },
+  "dark": {
+    "backgroundColor": "#121212",
+    "primaryTextColor": "#7C1004",
+    "secondaryTextColor": "#EECCCC"
+  }
+}
